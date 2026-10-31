@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# 素材、成片、头像这些个人的大文件不进仓库
+inputs/*
+!inputs/.gitkeep
+outputs/*
+!outputs/.gitkeep
+assets/*
+!assets/.gitkeep
+dist/
